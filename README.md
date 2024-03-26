@@ -18,7 +18,11 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 
 ## Links
 
->CloudFront - https://d2707oge2rqubq.cloudfront.net
+>Manually deployed S3 bucket - http://cloudx-manual-bucket.s3-website-eu-west-1.amazonaws.com/ 
+ 
+>Manually deployed CloudFront distribution - https://d1xwllcvjgzujj.cloudfront.net
+
+>CloudFront - https://drpi9kidohqbo.cloudfront.net/
 
 >S3 - http://epam-cloudx.s3-website-eu-west-1.amazonaws.com/
 

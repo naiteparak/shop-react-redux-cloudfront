@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            Autoparts Store
+            Autoparts Store!
           </Link>
         </Typography>
 
