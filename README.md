@@ -22,9 +22,12 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
  
 >Manually deployed CloudFront distribution - https://d1xwllcvjgzujj.cloudfront.net
 
->CloudFront - https://drpi9kidohqbo.cloudfront.net/
+>Task-2 CloudFront - https://drpi9kidohqbo.cloudfront.net/
 
->S3 - http://epam-cloudx.s3-website-eu-west-1.amazonaws.com/
+>Task-2 S3 - http://epam-cloudx.s3-website-eu-west-1.amazonaws.com/
+
+>Task-3 CloudFront - https://djl9ic6a9mdak.cloudfront.net/
+
 
 ## Available Scripts
 

@@ -1,4 +1,4 @@
-service: cloudx-app
+service: cloudx-app-task-3
 
 frameworkVersion: "3"
 
@@ -19,7 +19,7 @@ plugins:
 
 custom:
   client:
-    bucketName: epam-cloudx
+    bucketName: epam-cloudx-task-3
     distributionFolder: dist
   s3BucketName: ${self:custom.client.bucketName}
 
